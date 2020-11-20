@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import axios from 'axios'
 
-import chairWhite from '../images/book.svg'
+import chairWhite from '../images/chair-white.svg'
 import potGreen from '../images/flowerpot-green.svg'
 import chairGreen from '../images/chair-green.svg'
 import potWhite from '../images/flowerpot-white.svg'

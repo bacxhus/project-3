@@ -134,6 +134,7 @@ const Home = () => {
           </div>
         </div>
 
+
         <section className="status">
           <div>
             <img src={badge} alt="badge-icon" />
